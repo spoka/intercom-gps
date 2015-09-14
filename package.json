@@ -1,0 +1,14 @@
+{
+  "name": "intercom-screener-gps-yarun",
+  "version": "1.0.0",
+  "description": "GPS portion of Intercom.io Screener",
+  "main": "find-neary-users.js",
+  "author": "yarun.luon@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.2.0"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
